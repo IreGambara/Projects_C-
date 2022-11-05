@@ -1,0 +1,18 @@
+Currently I'm finishing tha last project at 42RomaLuiss School, where I have to build a website for the mighty pong contest with other teammates. 
+In specific, my task is to take care of the frontend part,
+therefore also of the graphics of the website. First of all with my team we decided how the
+site was going to be like. And here's the problem: we were very undecided of what style to
+use for the website. So I proposed myself to create three examples of templates with
+different design for each.
+But It was the first time that I had to create a template website, so what I did?
+I asked to colleagues for some advice and I did a lot of research on the Internet to understand
+how a website can be both easthetic but easily usable for users and for this I took a course
+in UI UX Design on Udemy and finally It was time to put into practice what I learned.
+To create realistic prototypes of the website I choose to use Adobe XD.
+A week later I presented my works but once again they were undecided, so I
+suggested a short brainstorming where they had to tell me which elements they liked most
+in the templates so that I could to try to combine them in a single site template.
+And finally the problem was solved and everyone was pleased with the result!
+
+
+
